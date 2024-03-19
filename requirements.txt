@@ -1,0 +1,8 @@
+numpy
+opencv-python
+face-recognition
+firebase-admin
+streamlit
+instapy
+clarifai==2.6.2
+emoji==1.5.0
