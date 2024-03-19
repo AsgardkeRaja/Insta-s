@@ -1,6 +1,7 @@
 numpy
 opencv-python
+git+https://github.com/davisking/dlib.git
 face-recognition
 firebase-admin
 streamlit
-git+https://github.com/davisking/dlib.git
+
