@@ -1,0 +1,44 @@
+/* Reset default margin and padding */
+body, h1, p, div {
+    margin: 0;
+    padding: 0;
+}
+
+/* Set body font and background color */
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+}
+
+/* Center the content */
+#root {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+}
+
+/* Style the title */
+h1 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+/* Style the subtitle */
+p {
+    font-size: 1rem;
+    margin-bottom: 2rem;
+}
+
+/* Style the link */
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+/* Add hover effect to the link */
+a:hover {
+    text-decoration: underline;
+}
